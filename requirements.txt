@@ -1,0 +1,5 @@
+sentence-transformers
+pdfminer.six
+scikit-learn
+flask
+pymupdf
