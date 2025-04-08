@@ -1,6 +1,29 @@
+<<<<<<< HEAD
 venv/
 __pycache__/
 *.pyc
 uploads/
 .env
 *.sqlite3
+=======
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+>>>>>>> c802d477f29e8f5574872e92af9651ce8e3255b1

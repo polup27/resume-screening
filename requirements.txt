@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Flask
 scikit-learn
 python-docx
 PyPDF2
+=======
+sentence-transformers
+pdfminer.six
+scikit-learn
+flask
+pymupdf
+>>>>>>> c802d477f29e8f5574872e92af9651ce8e3255b1
